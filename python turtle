@@ -1,6 +1,4 @@
 import turtle
-turtle.color("blue")
-
 for i in range(5):
     turtle.begin_fill()
     turtle.color("red")
