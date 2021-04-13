@@ -1,0 +1,11 @@
+import turtle
+turtle.color("blue")
+
+for i in range(5):
+    turtle.begin_fill()
+    turtle.color("red")
+    turtle.fd(300)
+    turtle.right(144)
+    turtle.end_fill()
+turtle.done()
+
